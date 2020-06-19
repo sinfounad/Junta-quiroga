@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Junta-quiroga/static/css/main.c91301d2.chunk.css",
-    "main.js": "/Junta-quiroga/static/js/main.394a5158.chunk.js",
-    "main.js.map": "/Junta-quiroga/static/js/main.394a5158.chunk.js.map",
+    "main.js": "/Junta-quiroga/static/js/main.8a6b7ed8.chunk.js",
+    "main.js.map": "/Junta-quiroga/static/js/main.8a6b7ed8.chunk.js.map",
     "runtime-main.js": "/Junta-quiroga/static/js/runtime-main.42fec9fe.js",
     "runtime-main.js.map": "/Junta-quiroga/static/js/runtime-main.42fec9fe.js.map",
     "static/js/2.f2b5e81a.chunk.js": "/Junta-quiroga/static/js/2.f2b5e81a.chunk.js",
     "static/js/2.f2b5e81a.chunk.js.map": "/Junta-quiroga/static/js/2.f2b5e81a.chunk.js.map",
     "index.html": "/Junta-quiroga/index.html",
-    "precache-manifest.757cfa4d6cdb69f0b6d12ae9516234bc.js": "/Junta-quiroga/precache-manifest.757cfa4d6cdb69f0b6d12ae9516234bc.js",
+    "precache-manifest.3d382e17007f973e94e3c2722b129499.js": "/Junta-quiroga/precache-manifest.3d382e17007f973e94e3c2722b129499.js",
     "service-worker.js": "/Junta-quiroga/service-worker.js",
     "static/css/main.c91301d2.chunk.css.map": "/Junta-quiroga/static/css/main.c91301d2.chunk.css.map",
     "static/js/2.f2b5e81a.chunk.js.LICENSE.txt": "/Junta-quiroga/static/js/2.f2b5e81a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.42fec9fe.js",
     "static/js/2.f2b5e81a.chunk.js",
     "static/css/main.c91301d2.chunk.css",
-    "static/js/main.394a5158.chunk.js"
+    "static/js/main.8a6b7ed8.chunk.js"
   ]
 }

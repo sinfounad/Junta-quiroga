@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Junta-quiroga/precache-manifest.757cfa4d6cdb69f0b6d12ae9516234bc.js"
+  "/Junta-quiroga/precache-manifest.3d382e17007f973e94e3c2722b129499.js"
 );
 
 self.addEventListener('message', (event) => {

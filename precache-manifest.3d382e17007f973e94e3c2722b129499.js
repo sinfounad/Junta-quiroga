@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4800cb34e53d523338f724be938f787",
+    "revision": "07047b97be5e1c6ba345d59dac1a57f4",
     "url": "/Junta-quiroga/index.html"
   },
   {
-    "revision": "a9f8361d37f2e491de59",
+    "revision": "82e3f7d9b12674c95b4c",
     "url": "/Junta-quiroga/static/css/main.c91301d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Junta-quiroga/static/js/2.f2b5e81a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9f8361d37f2e491de59",
-    "url": "/Junta-quiroga/static/js/main.394a5158.chunk.js"
+    "revision": "82e3f7d9b12674c95b4c",
+    "url": "/Junta-quiroga/static/js/main.8a6b7ed8.chunk.js"
   },
   {
     "revision": "c76e04e9fed1281d2e45",
